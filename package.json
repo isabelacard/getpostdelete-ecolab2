@@ -5,6 +5,7 @@
     "type": "module",
     "scripts": {
         "dev": "vite",
+        "server": "json-server --watch public/db.json --port 3001",
         "build": "tsc -b && vite build",
         "lint": "eslint src/ --ext .ts,.tsx,.jsx --report-unused-disable-directives",
         "lint:fix": "eslint src/ --ext .ts,.tsx,.jsx --report-unused-disable-directives --fix",
@@ -38,6 +39,7 @@
         "eslint-plugin-react-refresh": "^0.4.20",
         "globals": "^16.3.0",
         "husky": "^9.1.7",
+        "json-server": "^1.0.0-beta.6",
         "prettier": "3.6.2",
         "tailwindcss": "^4.1.13",
         "typescript": "~5.8.3",
