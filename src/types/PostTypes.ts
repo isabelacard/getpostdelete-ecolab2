@@ -1,6 +1,6 @@
-export type Post = {
-    userId: number;
+export type Posttype = {
     id: number;
-    title: string;
-    body: string;
+    name: string;
+    description: string;
+    image: string;
 };

@@ -1,0 +1,40 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "name": "Mametchi",
+            "description": "Uno de los Tamagotchi más famosos. Es estudioso, amable y siempre quiere ayudar a los demás.",
+            "image": "https://i.pinimg.com/736x/57/a1/e4/57a1e4bcdaedc7f3ef53aec9501c7309.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Kuchipatchi",
+            "description": "Tranquilo, comelón y muy adorable. Prefiere descansar y disfrutar la vida sin estrés.",
+            "image": "https://i.pinimg.com/736x/16/9f/3e/169f3e68827b047efc27f048b2d44049.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Memetchi",
+            "description": "Ama la moda, los accesorios y verse increíble. Siempre está al día con las tendencias.",
+            "image": "https://i.pinimg.com/736x/bb/50/6a/bb506a7287325f8a66cc74773d8a9c8e.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Furawatchi",
+            "description": "Extremadamente flojo pero muy tierno. Representa los días donde no quieres hacer nada.",
+            "image": "https://i.pinimg.com/736x/05/f1/5e/05f15ef1b90e9e2daeefff15ddc14168.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Mimitchi",
+            "description": "Pequeña, alegre y con forma de fresa. Siempre transmite ternura y energía positiva.",
+            "image": "https://i.pinimg.com/1200x/fa/3e/10/fa3e10559a2a66225f341fb902138ca2.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Papillotchi",
+            "description": "Soñadora y llena de amor. Le encantan los corazones, la música y la amistad.",
+            "image": "https://i.pinimg.com/736x/eb/86/80/eb8680b3b7206ab537df4cdb96f79316.jpg"
+        }
+    ]
+}
