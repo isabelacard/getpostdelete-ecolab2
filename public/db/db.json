@@ -1,40 +1,40 @@
 {
     "posts": [
         {
-            "id": 1,
-            "name": "Mametchi",
-            "description": "Uno de los Tamagotchi más famosos. Es estudioso, amable y siempre quiere ayudar a los demás.",
-            "image": "https://i.pinimg.com/736x/57/a1/e4/57a1e4bcdaedc7f3ef53aec9501c7309.jpg"
+            "id": "1",
+            "name": "Bandai star version",
+            "description": "Me encanta porque todavía guarda mis datos de cuando era pequeña. Los minijuegos siguen siendo igual de difíciles ",
+            "image": "https://i.pinimg.com/736x/53/14/92/5314928c3d89120663afecea4b3e9f1d.jpg"
         },
         {
-            "id": 2,
-            "name": "Kuchipatchi",
-            "description": "Tranquilo, comelón y muy adorable. Prefiere descansar y disfrutar la vida sin estrés.",
-            "image": "https://i.pinimg.com/736x/16/9f/3e/169f3e68827b047efc27f048b2d44049.jpg"
+            "id": "2",
+            "name": "Tamagotchi bandai berry",
+            "description": "Lo llevo en la mochila a la universidad y siempre reviso los eventos online. Me gusta personalizarle los accesorios y los fondos ",
+            "image": "https://i.pinimg.com/736x/d2/9f/1d/d29f1dc6117f64dcdbf9f1a79322b32d.jpg"
         },
         {
-            "id": 3,
-            "name": "Memetchi",
-            "description": "Ama la moda, los accesorios y verse increíble. Siempre está al día con las tendencias.",
-            "image": "https://i.pinimg.com/736x/bb/50/6a/bb506a7287325f8a66cc74773d8a9c8e.jpg"
+            "id": "3",
+            "name": "Couple Tama paradise",
+            "description": "Después de varios días conectándolos por fin se hicieron amigos y terminaron siendo pareja. Me da demasiada ternura verlos",
+            "image": "https://i.pinimg.com/1200x/c0/e3/d2/c0e3d2f12178449483fc5771c0453a34.jpg"
         },
         {
-            "id": 4,
-            "name": "Furawatchi",
-            "description": "Extremadamente flojo pero muy tierno. Representa los días donde no quieres hacer nada.",
-            "image": "https://i.pinimg.com/736x/05/f1/5e/05f15ef1b90e9e2daeefff15ddc14168.jpg"
+            "id": "4",
+            "name": "Tamagotchi Uni Paradise",
+            "description": "No tiene colores ni internet, pero justo eso lo hace especial. Me recuerda a jugar sin distracciones y solo cuidarlo con paciencia ",
+            "image": "https://i.pinimg.com/1200x/74/51/6a/74516aa781b616168e2041d1a841c184.jpg"
         },
         {
-            "id": 5,
-            "name": "Mimitchi",
-            "description": "Pequeña, alegre y con forma de fresa. Siempre transmite ternura y energía positiva.",
-            "image": "https://i.pinimg.com/1200x/fa/3e/10/fa3e10559a2a66225f341fb902138ca2.jpg"
+            "id": "5",
+            "name": "paradise chicken",
+            "description": "Literal lo abrí hoy y todavía estoy aprendiendo cómo funciona todo. Me emociona empezar a cuidarlo desde bebé y ver en qué se convierte",
+            "image": "https://i.pinimg.com/1200x/a4/1c/02/a41c029c4d5285e922dd4fe4a74a6cb5.jpg"
         },
         {
-            "id": 6,
-            "name": "Papillotchi",
-            "description": "Soñadora y llena de amor. Le encantan los corazones, la música y la amistad.",
-            "image": "https://i.pinimg.com/736x/eb/86/80/eb8680b3b7206ab537df4cdb96f79316.jpg"
+            "id": "6",
+            "name": "Tamagotchi paradise kuchipatchi",
+            "description": "Lo he cuidado desde que nació y ya aprendió a cocinar postres. Siempre lo reviso antes de dormir porque me da miedo que se enferme ",
+            "image": "https://i.pinimg.com/1200x/17/ac/b1/17acb11d89c9901463ad4d4249b40830.jpg"
         }
     ]
 }
