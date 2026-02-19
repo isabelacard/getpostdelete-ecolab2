@@ -17,7 +17,7 @@ export default function Home() {
     const handleCreate = async (newPost: Omit<Posttype, "id">) => {
         const created = await createPost(newPost);
         setPosts((prev) => [...prev, created]);
-        setModalOpen(false); // cerrar modal
+        setModalOpen(false);
     };
 
     useEffect(() => {
