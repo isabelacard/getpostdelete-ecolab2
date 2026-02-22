@@ -1,6 +1,6 @@
 import type { Posttype } from "../types/PostTypes";
 
-const API_URL = "http://localhost:3000/posts";
+const API_URL = "http://localhost:3004/posts";
 
 const getPosts = async (): Promise<Posttype[]> => {
     const response = await fetch(API_URL);
