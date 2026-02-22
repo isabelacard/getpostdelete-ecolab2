@@ -3,38 +3,32 @@
         {
             "id": "1",
             "name": "Bandai star version",
-            "description": "Me encanta porque todavía guarda mis datos de cuando era pequeña. Los minijuegos siguen siendo igual de difíciles ",
+            "description": "I love it because it still keeps my data from when I was little. The mini-games are still just as difficult.",
             "image": "https://i.pinimg.com/736x/53/14/92/5314928c3d89120663afecea4b3e9f1d.jpg"
         },
         {
             "id": "2",
             "name": "Tamagotchi bandai berry",
-            "description": "Lo llevo en la mochila a la universidad y siempre reviso los eventos online. Me gusta personalizarle los accesorios y los fondos ",
+            "description": "I carry it in my backpack to university and I always check the online events. I like customizing its accessories and backgrounds.",
             "image": "https://i.pinimg.com/736x/d2/9f/1d/d29f1dc6117f64dcdbf9f1a79322b32d.jpg"
         },
         {
             "id": "3",
             "name": "Couple Tama paradise",
-            "description": "Después de varios días conectándolos por fin se hicieron amigos y terminaron siendo pareja. Me da demasiada ternura verlos",
+            "description": "After several days of connecting them, they finally became friends and ended up as a couple. It’s incredibly cute to watch them.",
             "image": "https://i.pinimg.com/1200x/c0/e3/d2/c0e3d2f12178449483fc5771c0453a34.jpg"
         },
         {
             "id": "4",
             "name": "Tamagotchi Uni Paradise",
-            "description": "No tiene colores ni internet, pero justo eso lo hace especial. Me recuerda a jugar sin distracciones y solo cuidarlo con paciencia ",
+            "description": "It doesn’t have colors or internet, but that’s exactly what makes it special. It reminds me of playing without distractions and just taking care of it patiently.",
             "image": "https://i.pinimg.com/1200x/74/51/6a/74516aa781b616168e2041d1a841c184.jpg"
         },
         {
             "id": "5",
-            "name": "paradise chicken",
-            "description": "Literal lo abrí hoy y todavía estoy aprendiendo cómo funciona todo. Me emociona empezar a cuidarlo desde bebé y ver en qué se convierte",
+            "name": "Paradise Chicken",
+            "description": "I literally opened it today and I’m still learning how everything works. I’m excited to start taking care of it from baby stage and see what it becomes.",
             "image": "https://i.pinimg.com/1200x/a4/1c/02/a41c029c4d5285e922dd4fe4a74a6cb5.jpg"
-        },
-        {
-            "id": "6",
-            "name": "Tamagotchi paradise kuchipatchi",
-            "description": "Lo he cuidado desde que nació y ya aprendió a cocinar postres. Siempre lo reviso antes de dormir porque me da miedo que se enferme ",
-            "image": "https://i.pinimg.com/1200x/17/ac/b1/17acb11d89c9901463ad4d4249b40830.jpg"
         }
     ]
 }
