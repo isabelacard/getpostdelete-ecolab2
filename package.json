@@ -5,7 +5,7 @@
     "type": "module",
     "scripts": {
         "dev": "vite",
-        "server": "json-server --watch public/db/db.json --port 3000",
+        "server": "json-server --watch public/db/db.json --port 3004",
         "build": "tsc -b && vite build",
         "lint": "eslint src/ --ext .ts,.tsx,.jsx --report-unused-disable-directives",
         "lint:fix": "eslint src/ --ext .ts,.tsx,.jsx --report-unused-disable-directives --fix",

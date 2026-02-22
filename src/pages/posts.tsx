@@ -1,5 +1,5 @@
 import { type FormEvent, useState } from "react";
-import { Link } from "react-router";
+import { Link, useNavigate } from "react-router";
 
 import { createPost } from "../services/PostService";
 
@@ -9,6 +9,7 @@ export default function Posts() {
     const [image, setImage] = useState("");
     const [isSubmitting, setIsSubmitting] = useState(false);
     const [feedback, setFeedback] = useState("");
+    const navigate = useNavigate();
 
     const handleSubmit = (e: FormEvent) => {
         e.preventDefault();
@@ -23,6 +24,9 @@ export default function Posts() {
                 setDescription("");
                 setImage("");
                 setFeedback("Post created");
+                setTimeout(() => {
+                    navigate("/home");
+                }, 200);
             })
             .catch(() => {
                 setFeedback("The post is not created");
